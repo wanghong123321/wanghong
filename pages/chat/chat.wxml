@@ -1,0 +1,17 @@
+<!--pages/chat/chat.wxml-->
+<text>聊天界面</text>
+<view>
+  <swiper autoplay="true " interval="1000">
+    <swiper-item>
+      <image src="/photos/a/1.jpg"></image>
+    </swiper-item>
+
+    <swiper-item>
+      <image src="/photos/a/6.jpg"></image>
+    </swiper-item>
+
+    <swiper-item>
+      <image src="/photos/a/9.jpg"></image>
+    </swiper-item>
+  </swiper>
+</view>
